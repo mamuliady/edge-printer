@@ -29,6 +29,7 @@
   },
   "homepage": "https://github.com/cnTailor/edge-printer#readme",
   "dependencies": {
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "electron-edge-js": "^23.0.0"
   }
 }
